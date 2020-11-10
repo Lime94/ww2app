@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WW2HISTORY</string>
+    <string name="menu_rate">Оценить приложение</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="feat_fragment_title">Подвиги</string>
+    <string name="feat_fragment_description"> Герой в бою думает не о смерти, а о победе. Героизм побеждает смерть</string>
+    <string name="great_battle_fragment_title">Битвы</string>
+    <string name="great_battle_fragment_desciption">Воля - это то, что позволяет побеждать, когда разум твердит о поражении</string>
+    <string name="people_fragment_title">Люди</string>
+    <string name="people_fragment_description">Государственный деятель, который видит, что война неизбежна, и не может решиться нанести удар первым, виновен в преступлении против своей страны.</string>
+    <string name="technical_fragment_title">Техника</string>
+    <string name="tehnical_fragment_description">В современной войне, которая ведется с помощью танков и самолетов, нельзя дожидаться встречи с врагом нос к носу — тогда будет уже слишком поздно.</string>
+    <string name="weapon_fragment_title">Вооружение</string>
+    <string name="weapon_fragment_description">Винтовку нам отцы оставили, а мы ее в боях прославили...</string>
+    <string name="chronologies_fragment_title">Хронология</string>
+    <string name="chronologies_fragment_description">Краткая хронология событий 1939 - 1945 годы</string>
+</resources>
